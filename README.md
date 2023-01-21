@@ -1,5 +1,5 @@
 # fleet_management
-It contains the code and files to assign destinations to drivers
+It contains the code and files to assign shipment destinations to drivers
 
 go to terminal in system, with python installed
 
